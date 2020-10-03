@@ -1,0 +1,29 @@
+What is Python?
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+It is used for: 
+    web development (server-side),
+    software development,
+    mathematics, 
+    system scripting
+What can Python do?
+    Python can be used on a server to create web application
+    Python can connect to database systems. It can also read and modify files
+Why Python?
+    Python works on different platforms.
+    Python has a simple syntax similar to the English language
+
+----- Numpy Introduction
+What is Numpy?
+Numpy is a python library use for working with arrays
+It also has functions for working in domain of linear algebra, fourier transform, and matrices
+Numpy stands for Numerical Python
+
+Why Use Numpy?
+In Python we have lists that serve the purpose of arrays, but they are slow to process.
+Numpy aims to provide an array object that is up to 50x faster that traditional Python lists
+The array object in Numpy is called 'ndarray', it provides a lot of supporting functions that make working 
+Arrays are very frequently used in data science, where speed and resources are very important
+
+Why is Numpy Faster that Lists?
+Numpy arrays are stored at one continuous place in memory unlik lists, so processes can access and manipulate them very efficiently
+This behavior is called locality of reference in computer science
